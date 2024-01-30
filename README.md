@@ -1,5 +1,5 @@
 # Data-Science/Machine-Learning Project
-Data Science Project: Dataset about infant Mortality Rate by Maternal Race/Ethnicity for New York City, 2007-2016  Counts of infant deaths (age &lt;1 year) are based on NYC death certificates.
+Data Science/Machine Learning Project: Dataset about infant Mortality Rate by Maternal Race/Ethnicity for New York City, 2007-2016  Counts of infant deaths (age &lt;1 year) are based on NYC death certificates.
 
 ## Data Analysis: ##
 * Dataset: Analyzed "Infant Mortality Rate by Maternal Race/Ethnicity for New York City, 2007-2020" from the open data portal.
